@@ -1,0 +1,9 @@
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\obj\Debug\CareForMacro.csprojResolveAssemblyReference.cache
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\obj\Debug\CareForMacro.MacroForm.resources
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\obj\Debug\CareForMacro.Properties.Resources.resources
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\obj\Debug\CareForMacro.csproj.GenerateResource.Cache
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\bin\Debug\CareForMacro.exe.config
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\bin\Debug\CareForMacro.exe
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\bin\Debug\CareForMacro.pdb
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\obj\Debug\CareForMacro.exe
+C:\Users\myc\documents\visual studio 2017\Projects\CareForMacro\obj\Debug\CareForMacro.pdb
